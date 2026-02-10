@@ -36,6 +36,10 @@
 		<data>
 		j98SYoywcQ2CB/dqlaLrfqBkShA=
 		</data>
+		<key>CTNativeTemplate.nib</key>
+		<data>
+		FVdLOvtuP4EVv2XGWbWxmssslw4=
+		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
 		4uP4U1n5CDH4pqG0hclyfEiQmMI=
@@ -193,6 +197,17 @@
 			<key>hash2</key>
 			<data>
 			sVX3tzTPce8Agc2WY5mSQxGXiP1OuEsgppIgwHGrAao=
+			</data>
+		</dict>
+		<key>CTNativeTemplate.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FVdLOvtuP4EVv2XGWbWxmssslw4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ht0kNdkpdYaLaa7STvEn0YESEf7oReAUq3dsjFZgvN0=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
