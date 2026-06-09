@@ -88,9 +88,17 @@
 		<data>
 		fmWRpYx0g9jB3XOUqHtNspjEs5c=
 		</data>
+		<key>light@3x.png</key>
+		<data>
+		Lw7QqE/1Ardzjcb2MfhhyjneVgY=
+		</data>
 		<key>mraid.js</key>
 		<data>
 		szHBZP7+HFPYQIbB7OxrolU9AFA=
+		</data>
+		<key>nextIcon@3x.png</key>
+		<data>
+		6n33/JQKMb3HEUwclM4N267DSKs=
 		</data>
 		<key>omsdk-v1.js</key>
 		<data>
@@ -342,6 +350,17 @@
 			FBG3x4LxK87TqfoT+D/PuNWJ2JUV/+dwjYGa4SqAfgw=
 			</data>
 		</dict>
+		<key>light@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lw7QqE/1Ardzjcb2MfhhyjneVgY=
+			</data>
+			<key>hash2</key>
+			<data>
+			x/txpKAj1jhI7mBagyIGhPREZeR4NXsEkYc4MjC5x/8=
+			</data>
+		</dict>
 		<key>mraid.js</key>
 		<dict>
 			<key>hash</key>
@@ -351,6 +370,17 @@
 			<key>hash2</key>
 			<data>
 			rTvXEIxMokbUMKEEz3QU60BzB0aJQV1uP8rNslu5E+k=
+			</data>
+		</dict>
+		<key>nextIcon@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6n33/JQKMb3HEUwclM4N267DSKs=
+			</data>
+			<key>hash2</key>
+			<data>
+			p60xJGeB0dlONgYVYARlY0mRe6WX223Y8YZ7kWStghI=
 			</data>
 		</dict>
 		<key>omsdk-v1.js</key>
