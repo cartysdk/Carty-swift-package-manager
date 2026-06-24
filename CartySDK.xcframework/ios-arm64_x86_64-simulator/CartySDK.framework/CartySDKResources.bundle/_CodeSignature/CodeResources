@@ -121,10 +121,6 @@
 	<dict>
 		<key>CTADERIDInfoView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JnSnFeKw8wbxdOoGMXDF9iyk+Ug=
-			</data>
 			<key>hash2</key>
 			<data>
 			Cr+ViV6bQ5iMkRqKXV72H7wdMpTbEyUSqhDqxOWuPGk=
@@ -132,10 +128,6 @@
 		</dict>
 		<key>CTADEndCardDetailHorizontalView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yndbMlIGjQs48XxnVu/W+EY98Pc=
-			</data>
 			<key>hash2</key>
 			<data>
 			B6ZvHXLEMNpwMQkQARKLMmiNrFN54MMRtLdMBq7I8/g=
@@ -143,10 +135,6 @@
 		</dict>
 		<key>CTADEndCardDetailView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X4BNOeYZfZP/tcRchRV5ZdFoiDo=
-			</data>
 			<key>hash2</key>
 			<data>
 			AUuhZI+b4XhJQlShMng6/aEIARmPQUvPIIDOcbHwqiM=
@@ -154,10 +142,6 @@
 		</dict>
 		<key>CTADFullScreenViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i6UWJjSQfA5eU5GBYl+hmtm9QJU=
-			</data>
 			<key>hash2</key>
 			<data>
 			VzLfdVdvSva+muGSxCk+CXOfuyg2c9TE3fJFAt04798=
@@ -165,10 +149,6 @@
 		</dict>
 		<key>CTADMRECView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xOwJwspcv/8+IeeAMwp1HIOckYo=
-			</data>
 			<key>hash2</key>
 			<data>
 			BKY2gS0vZpK93pkzpjRheRY01CRf3m7cRfBshvK9NFI=
@@ -176,10 +156,6 @@
 		</dict>
 		<key>CTADNativeBannerView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			79Q2tHv9jo+fTqcbbjndSIhqIF8=
-			</data>
 			<key>hash2</key>
 			<data>
 			IhpH3kP61R2HxE/bO8fF+LR0UMPVCNYeMHQPelrxBmk=
@@ -187,10 +163,6 @@
 		</dict>
 		<key>CTADNativeSplashHorizontalView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BjK8zMzaz6A7JlDiskekPHHcY7o=
-			</data>
 			<key>hash2</key>
 			<data>
 			wnU8A4VxFrmRXLYmaZmWPfayoOucyQ1D+66ZsxZYLDU=
@@ -198,10 +170,6 @@
 		</dict>
 		<key>CTADNativeSplashView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j98SYoywcQ2CB/dqlaLrfqBkShA=
-			</data>
 			<key>hash2</key>
 			<data>
 			sVX3tzTPce8Agc2WY5mSQxGXiP1OuEsgppIgwHGrAao=
@@ -209,10 +177,6 @@
 		</dict>
 		<key>CTNativeTemplate.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FVdLOvtuP4EVv2XGWbWxmssslw4=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ht0kNdkpdYaLaa7STvEn0YESEf7oReAUq3dsjFZgvN0=
@@ -220,10 +184,6 @@
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4uP4U1n5CDH4pqG0hclyfEiQmMI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ujSqfYK2mpfwtGUoNZfLYD3zRSCWnVnSg2f4rn3RMV4=
@@ -231,10 +191,6 @@
 		</dict>
 		<key>about_icon@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kKP28nzmYDpdi8iQQodrkO0O1NM=
-			</data>
 			<key>hash2</key>
 			<data>
 			UwGZdc7YELd+lqhIdiySu64JTgwnlxox/pn2Ad2iAM8=
@@ -242,10 +198,6 @@
 		</dict>
 		<key>adChoice_icon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			J+X7BPurEiYu4tEgQTXo1XCdRew=
-			</data>
 			<key>hash2</key>
 			<data>
 			yRGxC6QKOxizQFLJLnVb4Ue9dphLLjIWIkfkYA8LY7w=
@@ -253,10 +205,6 @@
 		</dict>
 		<key>ad_icon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v7NdedWh2A2PjZxOX8k386FXNd4=
-			</data>
 			<key>hash2</key>
 			<data>
 			eF+B1r/EfHEX9GCQm2z1hvChycspSOEOisjlsDOFcPM=
@@ -264,10 +212,6 @@
 		</dict>
 		<key>ad_more_icon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uAIbrMGoe1kjJ4W1z2JCrhqi4ak=
-			</data>
 			<key>hash2</key>
 			<data>
 			CVYwN6vf2zKZYbtbAa4E777/Df9d2+5pcG+QUaTc7Rs=
@@ -275,10 +219,6 @@
 		</dict>
 		<key>close@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kys90TipVwJsSmhNV+byyTM/Xc4=
-			</data>
 			<key>hash2</key>
 			<data>
 			erMEwXb4R3gBYZXIA/Un8fYaXHjIEUA/xBcON6EZ1lc=
@@ -286,10 +226,6 @@
 		</dict>
 		<key>close@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ztxsFlX9+mQt3lWv9Hyf4MSrknM=
-			</data>
 			<key>hash2</key>
 			<data>
 			PwKBy+VvgfkrKP9ePSHcBJKj0VXTTuGCnO30aFpxgiA=
@@ -297,10 +233,6 @@
 		</dict>
 		<key>closeIcon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NhU8/TLuWdidocOx+VoEbpfkol0=
-			</data>
 			<key>hash2</key>
 			<data>
 			/wvGXsGzPy4wQFElBpumtMZMFJpN1C7RvuNVDSSiW3I=
@@ -308,10 +240,6 @@
 		</dict>
 		<key>close_icon@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9/w5eekiDrTwLBDPGcUG7is2uOc=
-			</data>
 			<key>hash2</key>
 			<data>
 			RV1Ut7Cc27fiF4pxf2S6wC12cSfPY+NR80nlJInfr5w=
@@ -319,10 +247,6 @@
 		</dict>
 		<key>copy_icon@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			902lZz2QSejQlJ0UsASc1Uv5uhs=
-			</data>
 			<key>hash2</key>
 			<data>
 			sKz9hQh7Hu+HeT0nabikI25FbSKXSbYhywdeOdvB5o0=
@@ -330,10 +254,6 @@
 		</dict>
 		<key>detailclose@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dytuw3PlItELELf9dWgFukVb+Sk=
-			</data>
 			<key>hash2</key>
 			<data>
 			BvFRC5WRQ+ualcGppsldGk5iNqdn6B0Rnplg559jTgQ=
@@ -341,10 +261,6 @@
 		</dict>
 		<key>detailclose@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fmWRpYx0g9jB3XOUqHtNspjEs5c=
-			</data>
 			<key>hash2</key>
 			<data>
 			FBG3x4LxK87TqfoT+D/PuNWJ2JUV/+dwjYGa4SqAfgw=
@@ -352,10 +268,6 @@
 		</dict>
 		<key>light@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Lw7QqE/1Ardzjcb2MfhhyjneVgY=
-			</data>
 			<key>hash2</key>
 			<data>
 			x/txpKAj1jhI7mBagyIGhPREZeR4NXsEkYc4MjC5x/8=
@@ -363,10 +275,6 @@
 		</dict>
 		<key>mraid.js</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			szHBZP7+HFPYQIbB7OxrolU9AFA=
-			</data>
 			<key>hash2</key>
 			<data>
 			rTvXEIxMokbUMKEEz3QU60BzB0aJQV1uP8rNslu5E+k=
@@ -374,10 +282,6 @@
 		</dict>
 		<key>nextIcon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6n33/JQKMb3HEUwclM4N267DSKs=
-			</data>
 			<key>hash2</key>
 			<data>
 			p60xJGeB0dlONgYVYARlY0mRe6WX223Y8YZ7kWStghI=
@@ -385,10 +289,6 @@
 		</dict>
 		<key>omsdk-v1.js</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			flu49ep64Khw2EbOD2LgY0HvggU=
-			</data>
 			<key>hash2</key>
 			<data>
 			G1LHyLNuDHSaD5mEUR5IsplsQjnmPNPlEIO1xrVB3zE=
@@ -396,10 +296,6 @@
 		</dict>
 		<key>slice@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YtpRb0XalRM8lpFvo0pFp6j/XvM=
-			</data>
 			<key>hash2</key>
 			<data>
 			elQYS2FzQ/o5ad2pRCn+2FtPkWUeLTbuejxpGTHB97A=
@@ -407,10 +303,6 @@
 		</dict>
 		<key>volume_off@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jZxOft9Cc8mMe6HaV6KekCKcLu8=
-			</data>
 			<key>hash2</key>
 			<data>
 			okDMVVqy1/99G2mGuwqyEx8+V/qvzAi/1I960FXD5Lw=
@@ -418,10 +310,6 @@
 		</dict>
 		<key>volume_on@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nZMlIF04XqrLwwslRwxcCLzveH8=
-			</data>
 			<key>hash2</key>
 			<data>
 			XH+VKpqp77uny7ld4KjJo2pwlBZ/zbWzYccufCr5l1A=
