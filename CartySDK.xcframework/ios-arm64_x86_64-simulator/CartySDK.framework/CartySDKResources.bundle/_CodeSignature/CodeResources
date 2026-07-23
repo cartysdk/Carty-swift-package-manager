@@ -60,6 +60,10 @@
 		<data>
 		uAIbrMGoe1kjJ4W1z2JCrhqi4ak=
 		</data>
+		<key>back_icon@3x.png</key>
+		<data>
+		I0IsO+SEFSJchNDVkyuhTPBPgQU=
+		</data>
 		<key>close@2x.png</key>
 		<data>
 		kys90TipVwJsSmhNV+byyTM/Xc4=
@@ -215,6 +219,13 @@
 			<key>hash2</key>
 			<data>
 			CVYwN6vf2zKZYbtbAa4E777/Df9d2+5pcG+QUaTc7Rs=
+			</data>
+		</dict>
+		<key>back_icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TpLjlMcJExOh4MPHSttYfPr6xOY22cO596Tez2xgCBI=
 			</data>
 		</dict>
 		<key>close@2x.png</key>
